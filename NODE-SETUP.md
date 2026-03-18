@@ -1,7 +1,5 @@
 <img src="https://github.com/XRPL-Node/mainnet/blob/main/xrpllogo.png?raw=true">
 
-XRP network rewards validators in the native token for sustained uptime and accurate consensus behavior. Consistent performance improves network security and reliability, and it can increase your rewards over time. See the Knowledge Base for eligibility requirements and payout rules.
-
 ## XRP Ledger Node Installation on Windows
 _The CMD command is the recommended way to install **XRP Ledger Node**. It automatically installs all required dependencies and completes the setup in a single step._
 
