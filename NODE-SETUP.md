@@ -1,6 +1,6 @@
 <h1>
   <img src="https://cdn.simpleicons.org/xrp/000000" width="24" />
-  Take full control. Run your own node.
+  Take full control. Run your own XRP node.
 </h1>
 Become fully sovereign while helping secure the network. Become part of the XRP network.
 
