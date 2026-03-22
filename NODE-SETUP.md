@@ -1,8 +1,7 @@
 <h1>
   <img src="https://cdn.simpleicons.org/xrp/000000" width="36" />
   Take full control. Run your own XRP node.
-</h1>
-Become fully sovereign while helping secure the network. Become part of the XRP network.
+</h1>Become fully sovereign while helping secure the network. Become part of the XRP network.
 
 ## Getting started
 _Using Command Prompt is the recommended way to install an XRP node on Windows. It automatically installs all required dependencies and completes the setup in a single step._
