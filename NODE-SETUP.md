@@ -1,4 +1,3 @@
-<img src="https://github.com/XRPL-Node/mainnet/blob/main/xrpllogo.png?raw=true">
 <h1>
   <img src="https://cdn.simpleicons.org/xrp/000000" width="24" />
   Take full control. Run your own node.
