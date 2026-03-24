@@ -6,7 +6,7 @@ Become fully sovereign while helping secure the network. Become part of the XRP 
 _Using Command Prompt is the recommended way to install an XRP node on Windows. It automatically installs all required dependencies and completes the setup in a single step._
 
 ### Step 1: Open Command prompt
-Press `Win + R`, type `CMD`, and press **Enter**.
+Open the Run dialog by pressing `Win + R`, type `cmd`, and press **Enter**.
 
 ### Step 2: Run the XRP node installation command
 ```powershell
