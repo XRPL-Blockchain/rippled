@@ -40,6 +40,7 @@ _After executing the command, the node will begin initializing and syncing with 
 </td>
 </tr>
 </table>
+
 # Community
 Thanks to all XRP validators supporting the network.
 
