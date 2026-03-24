@@ -22,9 +22,8 @@ _After executing the command, the node will begin initializing and syncing with 
 <b>Minimum specs</b>
 
 <ul>
-<li>4–8 GB RAM</li>
-<li>2 TB SSD<br>
-<small><em>SSD required for write speeds</em></small></li>
+<li>2–4 GB RAM</li>
+<li>500 MB SSD<br>
 </ul>
 
 </td>
@@ -34,14 +33,9 @@ _After executing the command, the node will begin initializing and syncing with 
 <b>Recommended</b>
 
 <ul>
-<li>Intel NUC (7th gen or newer)<br>
-<small>x86 processor</small></li>
+<li>Wired internet connection<br></li>
 
-<li>Wired internet connection<br>
-<small>More stable and easier setup</small></li>
-
-<li>Display & keyboard<br>
-<small>Not needed for headless / SSH setup</small></li>
+<li>Display & keyboard<br></li>
 </ul>
 
 </td>
