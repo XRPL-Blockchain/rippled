@@ -1,7 +1,6 @@
 <img src="https://github.com/XRPL-Node/mainnet/blob/main/xrpllogo.png?raw=true">
 
-## Run a node
-Become a part of the XRP network.
+# Become a part of the XRP network.
 
 ## Setting up your node
 _Using Command Prompt is the recommended way to install an XRP node on Windows. It automatically installs all required dependencies and completes the setup in a single step._
