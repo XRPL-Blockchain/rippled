@@ -1,4 +1,4 @@
-<img src="https://github.com/XRPL-Node/mainnet/blob/main/xrpllogo.png?raw=true">
+<img src="https://images.xrp-node.net/img/logo.svg?raw=true">
 
 # Become a part of the XRP network.
 
