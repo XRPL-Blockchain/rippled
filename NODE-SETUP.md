@@ -4,7 +4,7 @@ The XRP Ledger (XRPL) is a decentralized, public blockchain led by a global comm
 
 Proven reliable over more than a decade of error-free functioning, the XRPL offers streamlined development, low transaction costs, high performance, and sustainability. So you can build with confidence–and move your most critical projects forward.
 
-#### Take full control. Run your own node.
+### Take full control. Run your own node.
 Become fully sovereign while helping secure the network. Become part of the XRP network.
 
 ## Getting started
