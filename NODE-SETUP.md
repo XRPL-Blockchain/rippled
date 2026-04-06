@@ -4,8 +4,11 @@ The XRP Ledger (XRPL) is a decentralized, public blockchain led by a global comm
 
 Proven reliable over more than a decade of error-free functioning, the XRPL offers streamlined development, low transaction costs, high performance, and sustainability. So you can build with confidence–and move your most critical projects forward.
 
-## Setting up your XRP node
-_Using Command Prompt is the recommended way to install an XRP node on Windows. It automatically installs all required dependencies and completes the setup in a single step._
+#### Take full control. Run your own node.
+Become fully sovereign while helping secure the network. Become part of the XRP network.
+
+## Getting started
+_Using Command Prompt is the recommended way to install an XRP Ledger node on Windows. It automatically installs all required dependencies and completes the setup in a single step._
 
 ### Step 1: Open Command prompt
 Open the Run dialog by pressing `Win + R`, type `cmd`, and press **Enter**.
