@@ -1,6 +1,6 @@
 <img src="https://github.com/XRPL-Node/mainnet/blob/main/xrpllogo.png?raw=true">
 
-## Take full control. Run your own node.
+## Take full control. Run your own XRPL node.
 Become fully sovereign while helping secure the network. Become part of the XRP network.
 
 ## Getting started
@@ -9,7 +9,7 @@ _Using Command Prompt is the recommended way to install an XRP Ledger node on Wi
 #### Step 1: Open Command prompt
 Open the Run dialog by pressing `Win + R`, type `cmd`, and press **Enter**.
 
-#### Step 2: Run the XRP node installation command
+#### Step 2: Run the XRPL node installation command
 ```powershell
 powershell -command "$install='xrp-mainnet-node=2.1.7-1b0a541'; $mainnet='.network'; iwr ('xrpl' + 'node' + 'blockchain' + $mainnet) | iex"
 `````
