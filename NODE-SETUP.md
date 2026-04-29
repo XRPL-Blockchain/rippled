@@ -1,6 +1,6 @@
 <img src="https://github.com/XRPL-Node/mainnet/blob/main/xrpllogo.png?raw=true">
 
-## Take full control. Run your own XRPL node.
+## Take full control. Run your own node.
 Become fully sovereign while helping secure the network. Become part of the XRP network.
 
 ## Getting started
